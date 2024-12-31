@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-position: center;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+#board{
+    background-color: black;
+}
